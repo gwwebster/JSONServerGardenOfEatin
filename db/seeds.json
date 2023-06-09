@@ -4,31 +4,31 @@
       "id": 1,
       "name": "Chicken with Red Sauce",
       "description": "Grilled chicken breast in tomato sauce with green bell pepper, white mushroom, yellow onion, and Italian spices",
-      "price": "$13"
+      "price": 13
     },
     {
       "id": 2,
       "name": "Greek Pita",
       "description": "Grilled pork with chopped tomatoes, shallot, and cucumber in olive oil with side of pita",
-      "price": "$10"
+      "price": 10
     },
     {
       "id": 3,
       "name": "Stuffed Mushroom",
       "description": "Baked portobello mushroom stuffed with minced garlic, cayenne pepper, and Parmesan cheese",
-      "price": "$10"
+      "price": 10
     },
     {
       "id": 4,
       "name": "Grilled Salmon",
       "description": "Grilled salmon in lemon-caper sauce with side of green beans",
-      "price": "$17"
+      "price": 17
     },
     {
       "id": 5,
       "name": "Shrimp and Vegetables",
       "description": "Marinated shrimp sauteed with chopped asparagus, zucchini, red bell pepper, and red onion",
-      "price": "$15"
+      "price": 15
     }
   ]
 }
